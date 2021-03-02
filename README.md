@@ -41,4 +41,3 @@ Within ```django-snacks```, use ```python manage.py runserver``` and navigate to
 ## Change Log
 
 1.0: *Home and About pages complete with testing* - 27 Feb 2021
-# django-snacks
